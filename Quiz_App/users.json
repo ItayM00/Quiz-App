@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "username": "dddd",
+            "password": "12",
+            "points": 70
+        },
+        {
+            "username": "aaa",
+            "password": "1",
+            "points": 0
+        },
+        {
+            "username": "itayExample",
+            "password": "12345",
+            "points": 100
+        },
+        {
+            "username": "its",
+            "password": "123",
+            "points": 80
+        }
+    ]
+}
